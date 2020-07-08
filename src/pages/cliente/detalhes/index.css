@@ -1,0 +1,27 @@
+.cliente-info{
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  background: blueviolet;
+  border-radius: 5px;
+  padding: 20px;
+  
+}
+.cliente-info label{
+  color: white;
+  font-size: 20px;
+}
+.cliente-info h1{
+  margin-left: 20px;
+}
+.cliente-info .container{
+  padding: 20px;
+}
+.cliente-info a{
+  color: black;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.cliente-info .icones{
+  display: flex;
+}

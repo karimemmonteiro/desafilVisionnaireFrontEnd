@@ -1,0 +1,27 @@
+.produto-info{
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+  background: blueviolet;
+  border-radius: 5px;
+  padding: 20px;
+  
+}
+.produto-info label{
+  color: white;
+  font-size: 20px;
+}
+.produto-info h1{
+  margin-left: 20px;
+}
+.produto-info .container{
+  padding: 20px;
+}
+.produto-info a{
+  color: black;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.produto-info .icones{
+  display: flex;
+}
